@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.1.16)  19 MAR 2020 02:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.4.9)  13 APR 2020 12:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1149,12 +1149,7 @@ Overfull \hbox (34.90549pt too wide) in paragraph at lines 156--156
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/juansa/Documents/GitHub/JuanSA-Resume/linkedin_pic.jpg>] (/home/juansa/Documents/GitHub/JuanSA-Resume/page2sidebar.tex
-LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <9> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 5.
-)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/juansa/Documents/GitHub/JuanSA-Resume/linkedin_pic.jpg>] (/home/juansa/Documents/GitHub/JuanSA-Resume/page2sidebar.tex)
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 177.
  (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1185,15 +1180,15 @@ Package logreq Info: Writing requests to 'resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26107 strings out of 492167
- 528979 string characters out of 6131558
- 992097 words of memory out of 5000000
- 30043 multiletter control sequences out of 15000+600000
- 341126 words of font info for 53 fonts, out of 8000000 for 9000
+ 26099 strings out of 492167
+ 528787 string characters out of 6131559
+ 992098 words of memory out of 5000000
+ 30035 multiletter control sequences out of 15000+600000
+ 318961 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,96p,2190b,1181s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}</usr/share/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /home/juansa/Documents/GitHub/JuanSA-Resume/resume.pdf (2 pages, 163982 bytes).
+Output written on /home/juansa/Documents/GitHub/JuanSA-Resume/resume.pdf (2 pages, 162124 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
