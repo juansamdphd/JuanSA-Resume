@@ -1,17 +1,17 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
-[0] Config.pm:307> INFO - Logfile is 'resume.blg'
-[25] biber:315> INFO - === Thu Mar 19, 2020, 02:30:37
-[41] Biber.pm:375> INFO - Reading 'resume.bcf'
-[110] Biber.pm:905> INFO - Found 11 citekeys in bib section 0
-[125] Biber.pm:4196> INFO - Processing section 0
-[125] Utils.pm:75> INFO - Globbing data source 'references.bib'
-[125] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
-[136] Biber.pm:4373> INFO - Looking for bibtex format file 'references.bib' for section 0
-[139] bibtex.pm:1462> INFO - LaTeX decoding ...
-[193] bibtex.pm:1281> INFO - Found BibTeX data source 'references.bib'
-[340] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[341] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[341] Biber.pm:4024> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[341] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[381] bbl.pm:648> INFO - Writing 'resume.bbl' with encoding 'UTF-8'
-[403] bbl.pm:751> INFO - Output to resume.bbl
+[1] Config.pm:307> INFO - Logfile is 'resume.blg'
+[32] biber:315> INFO - === Mon May  4, 2020, 22:06:18
+[48] Biber.pm:375> INFO - Reading 'resume.bcf'
+[131] Biber.pm:905> INFO - Found 11 citekeys in bib section 0
+[147] Biber.pm:4196> INFO - Processing section 0
+[148] Utils.pm:75> INFO - Globbing data source 'references.bib'
+[148] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
+[162] Biber.pm:4373> INFO - Looking for bibtex format file 'references.bib' for section 0
+[165] bibtex.pm:1462> INFO - LaTeX decoding ...
+[224] bibtex.pm:1281> INFO - Found BibTeX data source 'references.bib'
+[393] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[393] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[394] Biber.pm:4024> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[394] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[423] bbl.pm:648> INFO - Writing 'resume.bbl' with encoding 'UTF-8'
+[448] bbl.pm:751> INFO - Output to resume.bbl
